@@ -1,0 +1,17 @@
+<resources>
+    <string name = "app_name">MySharedPreference Modul 7</string>
+    <string name = "name">Name</string>
+    <string name = "email">Email</string>
+    <string name = "phone_number">No Handphone</string>
+    <string name = "age">Age</string>
+    <string name = "yes">Ya</string>
+    <string name = "no">Tidak</string>
+    <string name = "save">Simpan</string>
+    <string name = "love_manchester_united">Suka manchester united?</string>
+    <string name = "change">Ubah</string>
+    <string name = "dummy_name">Fathimatus Zahrotun Nisa</string>
+    <string name = "dummy_email">22082010156@student.upnjatim.ac.id</string>
+    <string name = "dummynumber">081234567890</string>
+    <string name = "dummyage">20</string>
+    <string name = "dummyislove">IsLoveMU</string>
+</resources>
